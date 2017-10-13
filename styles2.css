@@ -1,5 +1,6 @@
 body {background: MistyRose;
 		font-size: 20pt;
-		font-family: 'Indie, Flower'}
+		font-family: 'Indie, Flower';
+		text-align: center }
 		
-	nav li { border: 2px solid black }
+	nav li { border: 1px solid black }

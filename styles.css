@@ -1,7 +1,8 @@
 body {background: lightgrey;
 	font-family: 'Lobster', cursive;
 	font-size: 20pt;
-	font-weight: bold; }
+	font-weight: bold;
+	text-align: center }
 	
 	Li { display: in-block }
 
